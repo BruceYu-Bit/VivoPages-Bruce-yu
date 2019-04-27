@@ -1,0 +1,16 @@
+<%@page contentType="text/html;charset=GB2312"%>
+  <div align="center" class="tr">
+    <table  width="100%" align="center" border="0" height=100>
+          <tr height=20><td colspan=7 align=center><H2><p>"Vivo"智能手机销售网</p></H2></td></tr>
+          <tr valign="center"  height=25 >
+              <td align=center ><A href="inputRegisterMess.jsp" style="text-decoration:none"><font size="5">注册</font></A></td>
+              <td align=center><A href="login.jsp" style="text-decoration:none"><font size="5">登录</font></A></td>
+              <td align=center><A href="searchMobile.jsp" style="text-decoration:none"><font size="5">查询手机</font></A></td>
+              <td align=center><A href="lookShoppingCar.jsp" style="text-decoration:none"><font size="5">查看购物车</font></A></td>
+              <td align=center><A href="lookAllOrderForm.jsp" style="text-decoration:none"><font size="5">查看订单</font></A></td>
+              <td align=center><A href="exitServlet.jsp" style="text-decoration:none"><font size="5">退出</font></A></td>
+              <td align=center><A href="index.jsp" style="text-decoration:none"><font size="5">主页</font></A></td>
+          </tr> 
+        </Font>
+    </table>
+</div>
